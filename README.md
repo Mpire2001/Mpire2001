@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mpire2001
-- 👀 I’m interested in ... programming, designing, drawing, and 
+- 👀 I’m interested in ... 3D designing, graphic designing, programming, video editing.
 - 🌱 I’m currently learning ... Computer Science Engineering
-- 💞️ I’m looking to collaborate on ... a simple project I have done during my 12th grade, and the work is currently paused due to other important matters.
+- 💞️ I’m looking to collaborate on ... any 3D design projects,  Python projects, Web Development etc.
 - 📫 How to reach me ... mithunmpire@gmail.com
 
 <!---
